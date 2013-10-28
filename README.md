@@ -2,6 +2,7 @@
 
 #### Resources
 [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/) - Shay Howe
+
 [WebPlatform: The Basics of HTML](http://docs.webplatform.org/wiki/guides/the_basics_of_html)
 
 ### Requirements
